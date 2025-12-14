@@ -22,12 +22,10 @@ class Solution {
             size++;
             temp=temp.next;
         }
-        System.out.println(size);
         temp=head;
         for(int i=1;i<size-n;i++){
             temp=temp.next;
         }
-        System.out.print(temp.val);
         if(size==n){
             head=head.next;
         }
