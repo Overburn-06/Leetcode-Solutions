@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
