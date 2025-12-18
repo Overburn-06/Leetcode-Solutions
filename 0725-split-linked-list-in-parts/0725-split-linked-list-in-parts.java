@@ -17,26 +17,26 @@ class Solution {
             temp = temp.next;
         }
         ListNode res[] = new ListNode[k];
-        temp = head;
-        int avg = size/k;
-        int extra = size%k;
+        int length=size/k;
+        int extra=size%k;
+        temp=head;
         for(int i=0;i<k;i++){
-            if(temp==null) break;
-            ListNode curHead = temp;
-            ListNode prev = null;
-            int len=0;
-            while(temp!=null && len<avg){
-                prev = temp;
-                temp = temp.next;
-                len++;
+            if(temp==null) return res;
+            int count=0;
+            ListNode currh=temp;
+            ListNode prev=null;
+            while(temp!=null&&count<length){
+                prev=temp;
+                temp=temp.next;
+                count++;
             }
             if(extra>0){
-                prev = temp;
-                temp = temp.next;
+                prev=temp;
+                temp=temp.next;
                 extra--;
             }
-            prev.next = null; 
-            res[i] = curHead; 
+            prev.next=null;
+            res[i]=currh;
         }
         return res;
     }
