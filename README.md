@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
