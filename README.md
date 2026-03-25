@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
