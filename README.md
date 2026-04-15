@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Math
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Divide and Conquer
