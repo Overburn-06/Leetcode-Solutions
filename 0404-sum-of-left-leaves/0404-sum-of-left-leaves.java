@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    static int left_sum(TreeNode root,ArrayList<ArrayList<Integer>>arr,Queue<TreeNode>qu){
+    static int left_sum(TreeNode root,Queue<TreeNode>qu){
         int sum=0;
         qu.offer(root);
         while(!qu.isEmpty()){
@@ -36,11 +36,11 @@ class Solution {
             for(int i=0;i<temp.size();i++){
                 sum+=temp.get(i);
             }
-            arr.add(temp);
+            // arr.add(temp);
         }
-        for(int i=0;i<arr.size();i++){
-            System.out.print(arr.get(i)+" ");
-        }
+        // for(int i=0;i<arr.size();i++){
+        //     System.out.print(arr.get(i)+" ");
+        // }
         return sum;
     }
     static boolean isLeaf(TreeNode root){
@@ -48,9 +48,9 @@ class Solution {
         return false;
     }
     public int sumOfLeftLeaves(TreeNode root) {
-        ArrayList<ArrayList<Integer>>arr=new ArrayList<>();
+        // ArrayList<ArrayList<Integer>>arr=new ArrayList<>();
         Queue<TreeNode>qu=new LinkedList<>();
-        return left_sum(root,arr,qu);
+        return left_sum(root,qu);
     
     }
 }
