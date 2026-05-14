@@ -14,7 +14,10 @@ class Solution {
         if(root==target){
             return true;
         }
-        if(lca(root.left,arr,target)||lca(root.right,arr,target)){
+        if(lca(root.left,arr,target)){
+            return true;
+        }
+        if(lca(root.right,arr,target)){
             return true;
         }
         arr.remove(arr.size()-1);
@@ -27,7 +30,7 @@ class Solution {
         lca(root,pathq,q);
         TreeNode ans=root;
         for(int i=0;i<Math.min(pathq.size(),pathp.size());i++){
-            if(pathp.get(i).equals(pathq.get(i))){
+            if(pathp.get(i)==(pathq.get(i))){
                 ans=pathq.get(i);
             }
         }
