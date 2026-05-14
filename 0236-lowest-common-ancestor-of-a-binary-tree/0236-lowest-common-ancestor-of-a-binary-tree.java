@@ -29,10 +29,12 @@ class Solution {
         lca(root,pathp,p);
         lca(root,pathq,q);
         TreeNode ans=root;
-        for(int i=0;i<Math.min(pathq.size(),pathp.size());i++){
+        int n = Math.min(pathp.size(), pathq.size());
+        for(int i=0;i<n;i++){
             if(pathp.get(i)==(pathq.get(i))){
                 ans=pathq.get(i);
             }
+            else break;
         }
         return ans;
     }
