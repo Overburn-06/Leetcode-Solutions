@@ -8,9 +8,9 @@
  * }
  */
 class Solution {
-    static boolean lca(TreeNode root,ArrayList<Integer>arr,TreeNode target){
+    static boolean lca(TreeNode root,ArrayList<TreeNode>arr,TreeNode target){
         if(root==null) return false;
-        arr.add(root.val);
+        arr.add(root);
         if(root==target){
             return true;
         }
@@ -21,18 +21,16 @@ class Solution {
         return false;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        ArrayList<Integer>pathp=new ArrayList<>();
-        ArrayList<Integer>pathq=new ArrayList<>();
+        ArrayList<TreeNode>pathp=new ArrayList<>();
+        ArrayList<TreeNode>pathq=new ArrayList<>();
         lca(root,pathp,p);
         lca(root,pathq,q);
-        int ans=0;
+        TreeNode ans=root;
         for(int i=0;i<Math.min(pathq.size(),pathp.size());i++){
             if(pathp.get(i).equals(pathq.get(i))){
                 ans=pathq.get(i);
             }
         }
-        
-        TreeNode res=new TreeNode(ans);
-        return res;
+        return ans;
     }
 }
