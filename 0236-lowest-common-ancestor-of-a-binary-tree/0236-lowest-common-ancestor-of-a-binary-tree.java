@@ -31,13 +31,7 @@ class Solution {
                 ans=pathq.get(i);
             }
         }
-        for(int i:pathp){
-            System.out.print(i+" ");
-        }
-        System.out.println();
-        for(int i:pathq){
-            System.out.print(i+" ");
-        }
+        
         TreeNode res=new TreeNode(ans);
         return res;
     }
