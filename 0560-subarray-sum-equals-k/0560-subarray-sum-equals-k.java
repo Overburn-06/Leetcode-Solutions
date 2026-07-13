@@ -19,6 +19,6 @@ class Solution {
                 if(ans==k) count++;
             }
         }
-        return count++;
+        return count;
     }
 }
