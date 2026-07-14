@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Merge Sort
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0443-string-compression) |
