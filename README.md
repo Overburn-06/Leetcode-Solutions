@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4003-longest-fibonacci-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4003-longest-fibonacci-subarray) |
 ## Recursion
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
