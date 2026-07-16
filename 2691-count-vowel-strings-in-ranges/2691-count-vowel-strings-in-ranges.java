@@ -3,9 +3,16 @@ class Solution {
         int []prefix=new int[words.length];
         int count=0;
         String vowel="aeiou";
+        HashSet<Character>set=new HashSet<>();
+        for(int i=0;i<vowel.length();i++){
+            set.add(vowel.charAt(i));
+        }
         for(int i=0;i<words.length;i++){
             String s=words[i];
-            if(vowel.indexOf(s.charAt(0))!=-1 && vowel.indexOf(s.charAt(s.length()-1))!=-1){
+            // if(vowel.indexOf(s.charAt(0))!=-1 && vowel.indexOf(s.charAt(s.length()-1))!=-1){
+            //     count+=1;
+            // }
+            if(set.contains(s.charAt(0))&&set.contains(s.charAt(s.length()-1))){
                 count+=1;
             }
             prefix[i]=count;
