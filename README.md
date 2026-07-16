@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
