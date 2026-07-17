@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4003-longest-fibonacci-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4003-longest-fibonacci-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
