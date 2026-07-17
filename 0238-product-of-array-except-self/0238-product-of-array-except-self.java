@@ -7,9 +7,6 @@ class Solution {
             arr[i]=pf*nums[i-1];
             pf=arr[i];
         }
-        for(int i:arr){
-            System.out.print(i+" ");
-        }
         int sf=1;
         for(int i=nums.length-1;i>=0;i--){
             arr[i]=sf*arr[i];
