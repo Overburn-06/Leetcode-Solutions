@@ -32,8 +32,8 @@ class Solution {
         Arrays.sort(nums);
         int med=nums[nums.length/2];
         int ans=0;
-        for(int i=0;i<nums.length;i++){
-            ans+=Math.abs(med-nums[i]);
+        for(int i:nums){
+            ans+=Math.abs(med-i);
         }
         return ans;
     }
