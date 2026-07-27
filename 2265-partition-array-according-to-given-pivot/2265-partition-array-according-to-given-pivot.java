@@ -11,12 +11,12 @@ class Solution {
         int b=l_count+s_count;
         int c=l_count;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]<pivot && a<l_count){
+            if(nums[i]<pivot ){
                 ans[a++]=nums[i];
-            }else if(nums[i]>pivot && b<nums.length){
-                ans[b++]=nums[i];
-            }else{
+            }else if(nums[i]==pivot){
                 ans[c++]=nums[i];
+            }else{
+                ans[b++]=nums[i];
             }
         }
         return ans;
