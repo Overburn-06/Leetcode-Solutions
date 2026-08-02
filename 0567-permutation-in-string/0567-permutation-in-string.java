@@ -3,13 +3,13 @@ class Solution {
         int i=0;
         int j=s1.length()-1;
       
-        char []ch=s1.toCharArray();
         HashMap<Character,Integer>set1=new HashMap<>();
-        for(int z=0;z<ch.length;z++){
-            if(set1.containsKey(ch[z])){
-                set1.put(ch[z],set1.get(ch[z])+1);
+        for(int z=0;z<s1.length();z++){
+            char ch=s1.charAt(z);
+            if(set1.containsKey(ch)){
+                set1.put(ch,set1.get(ch)+1);
             }else{
-                set1.put(ch[z],1);
+                set1.put(ch,1);
             }
         }
         
