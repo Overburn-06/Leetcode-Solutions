@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -335,4 +336,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
