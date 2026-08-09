@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [3483-alternating-groups-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
