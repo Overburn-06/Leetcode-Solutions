@@ -4,7 +4,6 @@ class Solution {
         int j=0;
         int count=0;
         HashMap<Integer,Integer>map=new HashMap<>();
-        if(nums.length==1 && k==1 ) return 1;
         while(j<nums.length){
             map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
             if(map.get(nums[j])>k){
