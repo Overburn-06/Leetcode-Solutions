@@ -8,6 +8,7 @@ class Solution {
             long sum=0;
             for(int i=0;i<time.length;i++){
                 sum+=mid/(long)time[i];
+                if(sum>totalTrips) break;
             }
             if(sum>=totalTrips){
                 count=Math.min(count,mid);
