@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0275-h-index-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
