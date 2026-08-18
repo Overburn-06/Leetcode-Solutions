@@ -8,12 +8,12 @@ class Solution {
             while(left<=right){
                 int mid=left+(right-left)/2;
                 if((long)potions[mid]*spells[i]>=success){
-                    res[i]=potions.length-mid;
                     right=mid-1;
                 }else if((long)potions[mid]*spells[i]<success){
                     left=mid+1;
                 }
             } 
+            res[i]=potions.length-left;
         }
         return res;
     }
