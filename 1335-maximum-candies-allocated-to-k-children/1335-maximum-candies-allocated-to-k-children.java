@@ -1,13 +1,13 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        long left=1;
-        long right=0;
+        int left=1;
+        int right=0;
         for(int i=0;i<candies.length;i++){
-            right=Math.max(right,(long)candies[i]);
+            right=Math.max(right,candies[i]);
         }
-        long count=0;
+        int count=0;
         while(left<=right){
-            long mid=left+(right-left)/2;
+            int mid=left+(right-left)/2;
             long c=0;
             for(int i=0;i<candies.length;i++){
                 c+=candies[i]/mid;
@@ -19,6 +19,6 @@ class Solution {
                 right=mid-1;
             }
         }
-        return (int)count;
+        return count;
     }
 }
