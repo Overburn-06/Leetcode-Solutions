@@ -10,9 +10,7 @@ class Solution {
             long mid=left+(right-left)/2;
             long c=0;
             for(int i=0;i<candies.length;i++){
-                if(mid<=candies[i]){
-                    c+=candies[i]/mid;
-                }
+                c+=candies[i]/mid;
             }
             if(c>=k){
                 count=Math.max(count,mid);
