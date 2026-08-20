@@ -8,8 +8,7 @@ class Solution {
         int res=0;
         while(left<=right){
             int mid=left+(right-left)/2;
-            int count=isPossible(quantities,n,mid);
-            if(count<=n){
+            if(isPossible(quantities,n,mid)){
                 res=mid;
                 right=mid-1;
             }else{
@@ -18,7 +17,7 @@ class Solution {
         }
         return res;
     }
-    int isPossible(int []quantities,int n,int mid){
+    boolean isPossible(int []quantities,int n,int mid){
         int count=0;
         for(int i=0;i<quantities.length;i++){
             count+=quantities[i]/mid;
@@ -26,7 +25,6 @@ class Solution {
                 count++;
             }
         }
-        
-        return count;
+        return count<=n;
     }
 }
