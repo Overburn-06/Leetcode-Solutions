@@ -6,14 +6,7 @@ class Solution {
         int res=0;
         while(left<=right){
             int mid=left+(right-left)/2;
-            int count=0;
-            for(int i=0;i<nums.length-1;i++){
-                if(Math.abs(nums[i+1]-nums[i])<=mid){
-                    count++;
-                    i++;
-                }   
-            }
-            if(count>=p){
+            if(count(nums,p,mid)){
                 res=mid;
                 right=mid-1;
             }else{
@@ -22,5 +15,19 @@ class Solution {
         }
         return res;
 
+    }
+    boolean count(int []nums,int p,int mid){
+        int count=0;
+        int i=0;
+        while(i<nums.length-1){
+            if(Math.abs(nums[i+1]-nums[i])<=mid){
+                count++;
+                i+=2;
+            }else{
+                i++;
+            } 
+            if(count==p)return true;
+        }
+        return false;
     }
 }
