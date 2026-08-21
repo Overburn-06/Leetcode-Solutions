@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Merge Sort
 |  |
 | ------- |
@@ -360,12 +362,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Simulation
 |  |
 | ------- |
