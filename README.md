@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
