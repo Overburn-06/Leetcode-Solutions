@@ -3,20 +3,23 @@ class Solution {
         Stack<String>st=new Stack<>();
         String s[]=path.split("/");
         for(int i=0;i<s.length;i++){
-            if(!st.isEmpty() && s[i].equals("..")){
-                st.pop();
+            if(s[i].equals("..")){// if s[i] is .. then we have to move back to parent directory and if stack is empty we just continue
+                if(!st.isEmpty()){
+                    st.pop();
+                }
                 continue;
             }
-            if(s[i].equals(".")||s[i].equals("")||s[i].equals("..")) continue;
+            if(s[i].equals(".")||s[i].equals("")) continue; // as split will give some empty strings and if s[i] is . then we have to skip adding it to stack 
             else{
-                st.push(s[i]);
+                st.push(s[i]); // else all other things are pushed to stack
             }
         }
-        String res="";
         if(st.isEmpty())return "/";
-        while(!st.isEmpty()){
-            res="/"+st.pop()+res;
+
+        StringBuilder res=new StringBuilder();
+        for(String ans:st){
+            res.append("/").append(ans);
         }
-        return res;
+        return res.toString();
     }
 }
