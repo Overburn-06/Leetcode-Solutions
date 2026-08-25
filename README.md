@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4003-longest-fibonacci-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4003-longest-fibonacci-subarray) |
+| [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
 ## Math
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
 ## Sliding Window
 |  |
 | ------- |
