@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
