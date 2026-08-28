@@ -11,14 +11,12 @@ class Solution {
         Stack<Pair>st=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
-            if(st.isEmpty()||st.peek().ch!=ch){
-                st.push(new Pair(ch,1));
+            if(!st.isEmpty() && st.peek().ch==ch){
+                st.peek().count++;
+                if(st.peek().count==k) st.pop();
             }else{
-                Pair prev=st.peek();
-                st.pop();
-                st.push(new Pair(prev.ch,prev.count+1));
+                st.push(new Pair(ch,1));
             }
-            if(st.peek().count==k) st.pop();
         }
         StringBuilder res= new StringBuilder();
         while(!st.isEmpty()){
