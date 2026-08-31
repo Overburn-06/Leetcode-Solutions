@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
