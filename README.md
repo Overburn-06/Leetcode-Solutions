@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
