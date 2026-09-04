@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
+| [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-alternating-groups-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
 ## Math
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 ## Merge Sort
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
 ## Sliding Window
 |  |
