@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0886-score-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0886-score-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Queue
 |  |
