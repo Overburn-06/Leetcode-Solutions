@@ -10,41 +10,55 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        int c1=1;
+        int c2=1;
         ListNode temp1=l1;
         ListNode temp2=l2;
-        int carry=0;
+        while(temp1.next!=null){
+            c1++;
+            temp1=temp1.next;
+        }
+        while(temp2.next!=null){
+            c2++;
+            temp2=temp2.next;
+        }
+        if(c1<c2){
+            while(c1!=c2){
+                temp1.next=new ListNode(0);
+                temp1=temp1.next;
+                c1++;
+            }
+        }else{
+             while(c1!=c2){
+                temp2.next=new ListNode(0);
+                temp2=temp2.next;
+                c2++;
+            }
+        }
         int sum=0;
-        ListNode dummy=new ListNode(-1);
-        ListNode curr=dummy;
-        while(temp1!=null||temp2!=null){
-            int x;
-            int y;
-            if(temp1!=null){
-                x=temp1.val;
-            }else{
-                x=0;
-            }
-            if(temp2!=null){
-                y=temp2.val;
-            }else{
-                y=0;
-            }
-            sum=x+y+carry;
-            if(sum>9){
-                curr.next=new ListNode(sum%10);
-                carry=sum/10;
+        ListNode t1=l1;
+        ListNode t2=l2;
+        int carry=0;
+        ListNode ans=new ListNode();
+        ListNode curr=ans;
+        ListNode head=ans;
+        for(int i=0;i<Math.max(c1,c2);i++){
+            int n1=t1.val;
+            int n2=t2.val;
+            int s=n1+n2+carry;
+            if(s>9){
+                carry=1;
             }else{
                 carry=0;
-                curr.next=new ListNode(sum);
             }
+            curr.next=new ListNode(s%10);
+            t1=t1.next;
+            t2=t2.next;
             curr=curr.next;
-            if(temp1!=null)temp1=temp1.next;
-            if(temp2!=null)temp2=temp2.next;
         }
-        if(carry!=0){
-            curr.next=new ListNode(carry);
+        if (carry != 0) {
+            curr.next = new ListNode(carry);
         }
-       
-        return dummy.next;
+        return head.next;
     }
 }
