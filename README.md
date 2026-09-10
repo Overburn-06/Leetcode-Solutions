@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-merge-in-between-linked-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-alternating-groups-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4003-longest-fibonacci-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
