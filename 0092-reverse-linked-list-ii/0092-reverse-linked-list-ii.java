@@ -10,36 +10,39 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        ListNode temp1=head;
-        ListNode temp2=head;
-        if(head==null||left==right) return head;
-        for(int i=1;i<left;i++){
-            temp1=temp1.next;
+        if(head.next==null) return head;
+        if(left==right) return head;
+        ListNode prev_left=head;
+        ListNode next_right=head;
+        ListNode left_temp=head;
+        ListNode right_temp=head;
+        for(int i=1;i<left-1;i++){
+            prev_left=prev_left.next;
         }
         for(int i=1;i<right;i++){
-            temp2=temp2.next;
+            right_temp=right_temp.next;
         }
-        ListNode prev= new ListNode(-1);
-        prev.next=head;
-        ListNode dummy=prev;
-        for(int i=1;i<left;i++){
-            dummy=dummy.next;
+        next_right=right_temp.next;
+        right_temp.next=null;
+        if(left==1){
+            ListNode rhead=reverse(left_temp);
+            head.next=next_right;
+            return rhead;
         }
-        ListNode last=temp2.next;
-        ListNode nhead=reverse(temp1,temp2);
-        dummy.next=nhead;
-        temp1.next=last;
-        return prev.next;
-        
+        left_temp=prev_left.next;
+        ListNode rhead=reverse(left_temp);
+        prev_left.next=rhead;
+        left_temp.next=next_right;
+        return head;
     }
-    public ListNode reverse(ListNode head,ListNode tail){
-        ListNode temp=head;
+    ListNode reverse(ListNode head){
+        ListNode curr=head;
         ListNode prev=null;
-        while(prev!=tail){
-            ListNode front=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=front;
+        while(curr!=null){
+            ListNode next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
         return prev;
     }
