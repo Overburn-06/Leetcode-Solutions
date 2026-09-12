@@ -12,35 +12,17 @@ class Solution {
     public ListNode insertionSortList(ListNode head) {
         if(head==null || head.next==null)return head;
         ListNode temp=head;
-        int count=0;
-        ListNode sorted=new ListNode();
-        ListNode nhead=sorted;
+        ListNode sorted=new ListNode(0);
         while(temp!=null){
-            temp=temp.next;
-            count++;
+            ListNode curr=sorted;
+            ListNode next=temp.next;
+            while(curr.next!=null && curr.next.val<temp.val){
+                curr=curr.next;
+            }
+            temp.next=curr.next;
+            curr.next=temp;
+            temp=next;
         }
-        for(int i=0;i<count;i++){
-            int min=Integer.MAX_VALUE;
-            temp=head;
-            while(temp!=null){
-                min=Math.min(min,temp.val);
-                temp=temp.next;
-            }
-            sorted.next=new ListNode(min);
-            sorted=sorted.next;
-            ListNode remove=head;
-            if(remove.val==min){
-                head=head.next;
-                continue;
-            }
-            while(remove!=null && remove.next!=null){
-                if(remove.next.val==min){
-                    remove.next=remove.next.next;
-                    break;
-                }
-                remove=remove.next;
-            }
-        }
-        return nhead.next;
+        return sorted.next;
     }
 }

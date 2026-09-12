@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/insertion-sort-list/">147. Insertion Sort List</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a singly linked list, sort the list using <strong>insertion sort</strong>, and return <em>the sorted list&#39;s head</em>.</p>
+<h2><a href="https://leetcode.com/problems/insertion-sort-list">147. Insertion Sort List</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a singly linked list, sort the list using <strong>insertion sort</strong>, and return <em>the sorted list&#39;s head</em>.</p>
 
 <p>The steps of the <strong>insertion sort</strong> algorithm:</p>
 
