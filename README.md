@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1256-rank-transform-of-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
