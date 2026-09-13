@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array">3420. Find Occurrences of an Element in an Array</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>, an integer array <code>queries</code>, and an integer <code>x</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/">3420. Find Occurrences of an Element in an Array</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>, an integer array <code>queries</code>, and an integer <code>x</code>.</p>
 
 <p>For each <code>queries[i]</code>, you need to find the index of the <code>queries[i]<sup>th</sup></code> occurrence of <code>x</code> in the <code>nums</code> array. If there are fewer than <code>queries[i]</code> occurrences of <code>x</code>, the answer should be -1 for that query.</p>
 
