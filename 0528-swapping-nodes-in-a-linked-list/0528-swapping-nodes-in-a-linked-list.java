@@ -23,8 +23,10 @@ class Solution {
         for(int i=1;i<k;i++){
             start=start.next;
         }
-        for(int i=0;i<l;i++){
+        ListNode fast=start;
+        while(fast.next!=null){
             end=end.next;
+            fast=fast.next;
         }
         int t=start.val;
         start.val=end.val;
