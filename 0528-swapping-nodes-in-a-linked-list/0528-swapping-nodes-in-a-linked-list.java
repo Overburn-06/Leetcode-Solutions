@@ -10,14 +10,7 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        int count=0;
         ListNode temp=head;
-        while(temp!=null){
-            count++;
-            temp=temp.next;
-        }
-        int l=count-k;
-        System.out.println(l);
         ListNode start=head;
         ListNode end=head;
         for(int i=1;i<k;i++){
