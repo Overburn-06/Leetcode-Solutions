@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
