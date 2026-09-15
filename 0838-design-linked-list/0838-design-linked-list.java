@@ -1,101 +1,94 @@
-class MyLinkedList {
-
-    private int size;
-    private Node head;
-    private Node tail;
-
-    public class Node{
-        private int value;
-        private Node next;
-
-        public Node(int val){
-            this.value =val;
-
-        }
-        public Node(int val,Node next){
-            this.value=val;
-            this.next=next;
-        }
+class ListNode{
+    int val;
+    ListNode next;
+    ListNode prev;
+    public ListNode(int val){
+        this.val=val;
+        next=null;
+        prev=null;
     }
-
+}
+class MyLinkedList {
+    ListNode head;
+    ListNode tail;
+    int count=0;
     public MyLinkedList() {
-        this.size=0;
-        this.head=null;
-        this.tail=null;
+        head=new ListNode(-1);
+        tail=new ListNode(-1);
+        head.next=tail;
+        tail.prev=head;
     }
     
     public int get(int index) {
-        if(index>=size ||index<0){
-            return -1;
-        }
-
-        Node temp=head;
-        for(int i=0;i<index;i++){
+       
+        if(index < 0 || index >= count) return -1;
+        if(index==0)return head.next.val;
+        ListNode temp=head;
+        for(int i=0;i<=index;i++){
             temp=temp.next;
         }
-        return temp.value;
+        return temp.val;
     }
     
     public void addAtHead(int val) {
-        Node newnode=new Node(val);
-        newnode.next=head;
-        head=newnode;
-        if(tail==null){
-            tail=newnode;
-        }
-        size++;
+        ListNode node =new ListNode(val);
+        ListNode next=head.next;
+        head.next=node;
+        node.next=next;
+        next.prev=node;
+        node.prev=head;
+        count++;
     }
     
     public void addAtTail(int val) {
-        if(tail==null){
-            addAtHead(val);
-            return;
-        }
-        Node newnode=new Node(val);
-        tail.next=newnode;
-        tail=newnode;
-        size++;
+        ListNode node=new ListNode(val);
+        ListNode prev=tail.prev;
+        prev.next=node;
+        node.prev=prev;
+        node.next=tail;
+        tail.prev=node;
+        count++;
     }
     
     public void addAtIndex(int index, int val) {
-        if(index>size){
-            return;
+        if(count>=index){
+            ListNode temp=head;
+            for(int i=0;i<=index;i++){
+                temp=temp.next;
+            }
+            ListNode node=new ListNode(val);
+            ListNode prev=temp.prev;
+            prev.next=node;
+            node.prev=prev;
+            node.next=temp;
+            temp.prev=node;
+            count++;
         }
-        if(index<=0){
-            addAtHead(val);
-            return;
-        }
-        if(index==size){
-            addAtTail(val);
-            return;
-        }
-        Node temp=head;
-        for(int i=0;i<index-1;i++){
-            temp=temp.next;
-        }
-        Node newnode=new Node(val);
-        newnode.next=temp.next;
-        temp.next=newnode;
-        size++;
     }
     
     public void deleteAtIndex(int index) {
-        if(index>=size){
-            return;
-        }
+        if(index>=count) return ;
         if(index==0){
-            head=head.next;
-            size--;
-            if(size==0) tail=null;
-            return;
+            ListNode next=head.next.next;
+            head.next=next;
+            next.prev=head;
+            count--;
+        }else if(index==count-1){
+            ListNode prev=tail.prev.prev;
+            prev.next=tail;
+            tail.prev=prev;
+            count--;
         }
-        Node temp=head;
-        for(int i=0;i<index-1;i++){
-            temp=temp.next;
+        else{
+            ListNode temp=head;
+            for(int i=0;i<=index;i++){
+                temp=temp.next;
+            }
+            ListNode prev=temp.prev;
+            prev.next=temp.next;
+            temp.next.prev=prev;
+            count--;
         }
-        temp.next=temp.next.next;
-        if(index==size-1) tail=temp;
-        size--;
     }
 }
 
