@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0838-design-linked-list) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0460-lfu-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0838-design-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0937-online-stock-span) |
@@ -581,5 +584,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
