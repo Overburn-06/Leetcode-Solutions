@@ -17,23 +17,39 @@ class Node {
 };
 */
 
+// class Solution {
+//     public int maxDepth(Node root) {
+//         if(root==null)return 0;
+//         Queue<Node>qu=new LinkedList<>();
+//         qu.offer(root);
+//         int depth=0;
+//         while(!qu.isEmpty()){
+//             int n=qu.size();
+//             while(n!=0){
+//                 Node temp=qu.poll();
+//                 for(Node node:temp.children){
+//                     if(node!=null)qu.offer(node);
+//                 }
+//                 n--;
+//             }
+//             depth++;
+//         }
+//         return depth;
+//     }
+// }
+
+
 class Solution {
     public int maxDepth(Node root) {
-        if(root==null)return 0;
-        Queue<Node>qu=new LinkedList<>();
-        qu.offer(root);
+       if(root==null){
+        return 0;
+       }
         int depth=0;
-        while(!qu.isEmpty()){
-            int n=qu.size();
-            while(n!=0){
-                Node temp=qu.poll();
-                for(Node node:temp.children){
-                    if(node!=null)qu.offer(node);
-                }
-                n--;
+        for(Node node:root.children){
+            if(node!=null){
+                depth=Math.max(maxDepth(node),depth);
             }
-            depth++;
         }
-        return depth;
+        return 1+depth;
     }
 }
