@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3451-string-compression-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3451-string-compression-iii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3811-reverse-degree-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
 ## Sliding Window
 |  |
