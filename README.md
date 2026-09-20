@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
