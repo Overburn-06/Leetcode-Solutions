@@ -22,7 +22,7 @@ class Solution {
         if(root==null)return 0;
         Queue<Node>qu=new LinkedList<>();
         qu.offer(root);
-        int depth=1;
+        int depth=0;
         while(!qu.isEmpty()){
             int n=qu.size();
             while(n!=0){
@@ -34,6 +34,6 @@ class Solution {
             }
             depth++;
         }
-        return depth-1;
+        return depth;
     }
 }
