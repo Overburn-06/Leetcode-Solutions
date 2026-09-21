@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Merge Sort
 |  |
 | ------- |
