@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0983-validate-stack-sequences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
