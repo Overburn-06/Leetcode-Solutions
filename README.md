@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -600,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1582-design-browser-history) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
