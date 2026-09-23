@@ -14,21 +14,22 @@
  * }
  */
 class Solution {
-    static boolean path(TreeNode root,int t,int sum){
-        if(root==null)return false;
-        sum+=root.val;
-        if(path(root.left,t,sum)||path(root.right,t,sum)) return true;
-        if(sum==t && isLeaf(root)) return true;
+    public boolean isLeafNode(TreeNode root){
+        if(root.left==null && root.right==null) return true;
         return false;
     }
-    static boolean isLeaf(TreeNode root){
-        if(root.left==null&&root.right==null) return true;
-        return false;
+    public boolean traversal(TreeNode root,int targetSum,int sum){
+        if(root==null)return false;
+        sum+=root.val;
+        if(isLeafNode(root)){
+            if(sum==targetSum) return true;
+            return false;
+        }
+        return traversal(root.left,targetSum,sum)||
+        traversal(root.right,targetSum,sum);
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
         int sum=0;
-        if(root==null)return false;
-        return path(root,targetSum,sum);
-
+        return traversal(root,targetSum,sum);
     }
 }
