@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4003-longest-fibonacci-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4003-longest-fibonacci-subarray) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4213-merge-adjacent-equal-elements) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4245-count-commas-in-range](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
