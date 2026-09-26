@@ -14,36 +14,24 @@
  * }
  */
 class Solution {
-    static void paths(TreeNode root,ArrayList<ArrayList<Integer>>arr,ArrayList<Integer>temp){
-        if(root==null) return ;
-        temp.add(root.val);
-        if(isLeaf(root)){
-            arr.add(new ArrayList<>(temp));
+    public void traversal(TreeNode root,String res,List<String>arr){
+        res+="->"+root.val;
+        if(root.left==null && root.right==null){
+            arr.add(res);
+            return;
         }
-        paths(root.left,arr,temp);
-        paths(root.right,arr,temp);
-        temp.remove(temp.size()-1);
-        return;
+        if(root.left!=null)traversal(root.left,res,arr);
+        if(root.right!=null)traversal(root.right,res,arr);
     }
-    static boolean isLeaf(TreeNode root){
-        if(root.left==null&&root.right==null) return true;
-        return false;
-    }
-    public List<String> binaryTreePaths(TreeNode root) {    
-        ArrayList<ArrayList<Integer>>arr=new ArrayList<>();
-        ArrayList<Integer>temp=new ArrayList<>();
-        List<String>res=new ArrayList<>();
-        paths(root,arr,temp);
-        for(int i=0;i<arr.size();i++){
-        StringBuilder st=new StringBuilder();
-            for(int j=0;j<arr.get(i).size();j++){
-                st.append(arr.get(i).get(j));
-                if(j!=arr.get(i).size()-1){
-                    st.append("->");
-                }
-            }
-            res.add(st.toString());
+    public List<String> binaryTreePaths(TreeNode root) {
+        List<String>arr=new ArrayList<>();
+        String res=Integer.toString(root.val);
+        if(root.left==null && root.right==null){
+            arr.add(res);
+            return arr;
         }
-        return res;
+        if(root.left!=null)traversal(root.left,res,arr);
+        if(root.right!=null)traversal(root.right,res,arr);
+        return arr;
     }
 }
