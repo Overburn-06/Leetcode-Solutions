@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
