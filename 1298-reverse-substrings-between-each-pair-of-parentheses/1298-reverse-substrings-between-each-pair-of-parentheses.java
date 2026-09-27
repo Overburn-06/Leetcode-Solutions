@@ -9,7 +9,7 @@ class Solution {
                 while(!st.isEmpty()&& st.peek()!='('){
                     temp.append(st.pop());
                 }
-                if(st.peek()=='(') st.pop();
+                st.pop();
                 for(int j=0;j<temp.length();j++){
                     st.push(temp.charAt(j));
                 }
