@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0883-car-fleet](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
 |  |
@@ -626,4 +631,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
