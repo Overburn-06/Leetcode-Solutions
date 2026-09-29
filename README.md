@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -648,4 +653,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
