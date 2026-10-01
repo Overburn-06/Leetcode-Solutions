@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0886-score-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
