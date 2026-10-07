@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1582-design-browser-history) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
