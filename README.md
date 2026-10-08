@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1138-grumpy-bookstore-owner](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0883-car-fleet](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0883-car-fleet) |
 | [0958-sort-array-by-parity-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
