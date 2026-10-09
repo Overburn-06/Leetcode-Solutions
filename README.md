@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1582-design-browser-history](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1582-design-browser-history) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Queue
 |  |
