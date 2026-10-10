@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
