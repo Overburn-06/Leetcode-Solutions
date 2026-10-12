@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -709,11 +711,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
