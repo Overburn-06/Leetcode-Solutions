@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2721-sum-of-distances](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2721-sum-of-distances) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2846-robot-collisions](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -716,12 +718,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
