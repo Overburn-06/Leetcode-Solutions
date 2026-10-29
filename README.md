@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
@@ -24,6 +25,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
