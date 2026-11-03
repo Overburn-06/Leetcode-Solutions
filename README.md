@@ -16,6 +16,7 @@
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +84,5 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
