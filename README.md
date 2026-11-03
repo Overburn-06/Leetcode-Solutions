@@ -78,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -85,4 +86,8 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
