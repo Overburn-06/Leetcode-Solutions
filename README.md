@@ -38,6 +38,7 @@
 | [0455-assign-cookies](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
