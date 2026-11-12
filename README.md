@@ -17,6 +17,7 @@
 | [1184-car-pooling](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/1184-car-pooling) |
 | [2047-find-a-peak-element-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
