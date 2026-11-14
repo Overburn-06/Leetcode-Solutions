@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -108,15 +109,21 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [3113-beautiful-towers-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3114-beautiful-towers-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [3113-beautiful-towers-ii](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3113-beautiful-towers-ii) |
 | [3114-beautiful-towers-i](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3114-beautiful-towers-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/3644-minimum-positive-sum-subarray) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Overburn-06/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
